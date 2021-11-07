@@ -1,16 +1,40 @@
-### Hi there 👋
+# Isaac-Folarin
+![profile](https://miro.medium.com/max/1054/1*yxdy3UX6x1a6vMWWDCN8lw.jpeg)
 
 <!--
-**Folarin-Isaac/Folarin-Isaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** -->
+<h1 align="center">Hi there 👋, I'm Isaac Folarin</h1>
 
-Here are some ideas to get you started:
+<p align="center"><b>I'm an Android Developer who is passionate about Technology and how it can be leveraged to affect communities positively. I'm focused on developing for the Android/Flutter and Firebase Platforms.</b></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on all things mobile/ technical article
+- 👯 I’m looking to collaborate on Android and Backend Projects.
+- 📫 How to reach me: [Portfolio](https://folarin-isaac.github.io/new-portfolio/),[LinkedIn](https://www.linkedin.com/in/folarinisaac/)
+
+#### Technologies and Tools
+
+<p>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src ="https://img.shields.io/badge/android-%2307405e.svg?&style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+</p>
+
+#### Currently working at:
+
+- [Android Engineer @ Vascon Solutions and Multiservices Limited]
+
+#### Volunteer Experience
+
+- Head Tutor(Android) @Google Developer Student Club, UNILAG
+
+Thanks for checking out my profile.
