@@ -1,4 +1,4 @@
-# Isaac-Folarin
+# Isaac Folarin
 ![profile](https://miro.medium.com/max/1054/1*yxdy3UX6x1a6vMWWDCN8lw.jpeg)
 
 <!--
@@ -31,7 +31,7 @@
 
 #### Currently working at:
 
-- [Android Engineer @ Vascon Solutions and Multiservices Limited]
+- Android Engineer @ Vascon Solutions and Multiservices Limited
 
 #### Volunteer Experience
 
