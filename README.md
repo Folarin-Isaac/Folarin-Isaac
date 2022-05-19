@@ -31,7 +31,7 @@
 
 #### Currently working at:
 
-- Android Engineer @ Vascon Solutions and Multiservices Limited
+- Android Engineer @[Waya PayChat](https://www.wayapaychat.com/)
 
 #### Volunteer Experience
 
