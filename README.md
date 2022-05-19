@@ -5,7 +5,7 @@
 ** -->
 <h1 align="center">Hi there 👋, I'm Isaac Folarin</h1>
 
-<p align="center"><b>I'm an Android Developer who is passionate about Technology and how it can be leveraged to affect communities positively. I'm focused on developing for the Android/Flutter and Firebase Platforms.</b></p>
+<p align="center"><b>I'm an Android Developer who is passionate about Technology and how it can be leveraged to affect communities positively. I'm focused on developing highly scalable android applications using my technical skills.</b></p>
 
 - 🔭 I’m currently working on all things mobile/ technical article
 - 👯 I’m looking to collaborate on Android and Backend Projects.
