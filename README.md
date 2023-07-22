@@ -1,11 +1,9 @@
 # Isaac Folarin
-![profile](https://miro.medium.com/max/1054/1*yxdy3UX6x1a6vMWWDCN8lw.jpeg)
-
 <!--
 ** -->
 <h1 align="center">Hi there 👋, I'm Isaac Folarin</h1>
 
-<p align="center"><b>I'm an Android Developer who is passionate about Technology and how it can be leveraged to affect communities positively. I'm focused on developing highly scalable android applications using my technical skills.</b></p>
+<p align="center"><b>I'm a Flutter Developer who is passionate about Technology and how it can be leveraged to affect communities positively. I'm focused on developing highly scalable mobile applications using my technical skills.</b></p>
 
 - 🔭 I’m currently working on all things mobile/ technical article
 - 👯 I’m looking to collaborate on Android and Backend Projects.
@@ -31,7 +29,7 @@
 
 #### Currently working at:
 
-- Android Engineer @[Waya PayChat](https://www.wayapaychat.com/)
+- Flutter Engineer @[Waya PayChat](https://www.wayapaychat.com/)
 
 #### Volunteer Experience
 
