@@ -3,10 +3,10 @@
 ** -->
 <h1 align="center">Hi there 👋, I'm Isaac Folarin</h1>
 
-<p align="center"><b>I'm a Flutter Developer who is passionate about Technology and how it can be leveraged to affect communities positively. I'm focused on developing highly scalable mobile applications using my technical skills.</b></p>
+<p align="center"><b>I'm a Flutter developer who is passionate about technology and how it can be leveraged to affect communities positively. I'm focused on developing highly scalable mobile applications using my technical skills.</b></p>
 
-- 🔭 I’m currently working on all things mobile/ technical article
-- 👯 I’m looking to collaborate on Android and Backend Projects.
+- 🔭 I’m currently working on all things mobile/technical articles.
+- 👯 I’m looking to collaborate on Mobile App projects.
 - 📫 How to reach me: [Portfolio](https://folarin-isaac.github.io/new-portfolio/),[LinkedIn](https://www.linkedin.com/in/folarinisaac/)
 
 #### Technologies and Tools
@@ -29,10 +29,10 @@
 
 #### Currently working at:
 
-- Flutter Engineer @[Waya PayChat](https://www.wayapaychat.com/)
+- Flutter Developer @[Talnts App](https://www.talnts.app/)
 
 #### Volunteer Experience
 
-- Head Tutor(Android) @[Developers Student Club, UNILAG](https://dscunilag.dev/)
+- Mobile Tutor(Flutter) @[Developers Student Club, UNILAG](https://dscunilag.dev/)
 
 Thanks for checking out my profile.
